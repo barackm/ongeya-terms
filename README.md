@@ -14,7 +14,7 @@ Le contenu est déployé via **GitHub Pages** pour un accès facile.
 ## Accès
 
 Vous pouvez consulter les Conditions d'Utilisation et la Politique de Confidentialité en ligne ici :  
-👉 [Voir le site](https://barackm>.github.io/ongeya-terms/)
+👉 [Voir le site](https://barackm.github.io/ongeya-terms/)
 
 ## Licence
 
